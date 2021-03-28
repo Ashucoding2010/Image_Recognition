@@ -1,0 +1,24 @@
+body {
+
+background-color: chartreuse;
+font-size: 20px;
+color: crimson;
+font-weight: bold;
+
+}
+
+hr {
+
+width:  90%;
+height: 2px;
+background-color: blue;
+
+}
+
+#camera {
+
+width: 350px;
+height: 300px;
+border: 0px solid blue;
+padding-right: 50px;
+}
